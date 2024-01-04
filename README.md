@@ -1,12 +1,12 @@
 <h1 align="center">
-    Hi there, I'm <span style="color:#a9fef7">Kirill</span> 
+    Hi there, I'm <a href="https://t.me/kllraz" target="_blank">Kirill</a>
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
     
 </h1>
 
-<span style="display:block;text-align:center">
+<p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Lines&size=35&pause=1000&color=fe428e&center=true&vCenter=true&repeat=false&random=false&width=435&height=100&lines=Python+developer" alt="Typing SVG" /></a>
-</span>
+</p>
 
 
 ## 🛠 My skills: 
@@ -23,8 +23,8 @@
 [<img src='https://www.svgrepo.com/show/354443/telegram.svg' alt='telegram' height='35'>](https://t.me/kllraz)  
 
 
-<span style="display:block;text-align:center">
+<p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=kllraz&show_icons=true&theme=radical&rank_icon=github" />
     </a>
-</span>
+</p>
