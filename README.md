@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hi there, I'm <a href="https://t.me/kllraz" target="_blank">Kirill</a>
+    Hi there, I'm <a href="https://t.me/lysmux" target="_blank">Kirill</a>
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
     
 </h1>
@@ -20,11 +20,11 @@
 - WEB technologies
 
 ## 💬 Contact me 
-[<img src='https://www.svgrepo.com/show/354443/telegram.svg' alt='telegram' height='35'>](https://t.me/kllraz)  
+[<img src='https://www.svgrepo.com/show/354443/telegram.svg' alt='telegram' height='35'>](https://t.me/lysmux)  
 
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=kllraz&show_icons=true&theme=radical&rank_icon=github" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=lysmux&show_icons=true&theme=radical&rank_icon=github" />
     </a>
 </p>
